@@ -28,6 +28,10 @@ Users should also be able to rate the treats and post reviews and fotos. Adminis
 
 #### 1. Use Case: Order Substystem
 
+Um im Treats Worldwide Online Shop eine Bestellung zu tätigen, müssen einige Prozesse durchlaufen werden. Der Beschreibung der Applikation in der Aufgabenstellung entsprechend gibt der HTW Shop dem Kunden Informationen über die Kürbisse und Süßigkeiten. Der Kunde kann aus einer Auswahl von Produkten bzw. Kürbissen wählen und diese bestellen. Der HTW Shop kann die bestellten Kürbisse an den Kunden z.B. über ein Liefer bzw- Delivery System zustellen.
+
+Hier ist ein Use Case Diagram für das Bestellsystem des Shops:
+
 ![](UseCaseSubsystemOrder.jpg)
 
 ## Class Diagram
