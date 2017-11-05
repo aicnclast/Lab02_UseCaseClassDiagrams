@@ -26,7 +26,7 @@ Users should also be able to rate the treats and post reviews and fotos. Adminis
 
 ### Then, pick the most important (or interesting) use case. Write down a detailed scenario for that use case (see below).
 
-#### Use Case: Order Substystem
+#### 1. Use Case: Order Substystem
 
 ![](UseCaseSubsystemOrder.jpg)
 
