@@ -28,8 +28,22 @@ Users should also be able to rate the treats and post reviews and fotos. Adminis
 
 #### Use Case: Order Substystem
 
-![](UseCaseSubsystemOrder.jpg)
+![UseCaseSubsystemOrder](/Users/tweak/CloudStation/IMI/03_Semester/Informatik-03/labs/Lab02_UseCaseClassDiagrams/use_cases/UseCaseSubsystemOrder.jpg)
+
+#### Use Case: Checkout
+
+![useCase_checkout](/Users/tweak/CloudStation/IMI/03_Semester/Informatik-03/labs/Lab02_UseCaseClassDiagrams/use_cases/useCase_checkout.jpg)
+
+
+
+#### Use Case: Review
+
+![useCase_review](/Users/tweak/CloudStation/IMI/03_Semester/Informatik-03/labs/Lab02_UseCaseClassDiagrams/use_cases/useCase_review.JPG)
+
+
 
 ## Class Diagram
 
 ### Then, draw a Class Diagram for your Application. It should contain associations (aggregations and compositions, association classes as needed), generalizations, as well as the most important fields and method names of the classes.
+
+![class_diagram](/Users/tweak/CloudStation/IMI/03_Semester/Informatik-03/labs/Lab02_UseCaseClassDiagrams/class_diagram.PNG)
