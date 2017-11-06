@@ -38,7 +38,7 @@ Hier ist ein Use Case Diagram für das Bestellsystem des Shops:
 
 ![useCase_checkout](/Users/tweak/CloudStation/IMI/03_Semester/Informatik-03/labs/Lab02_UseCaseClassDiagrams/use_cases/useCase_checkout.jpg)
 
-
+Der Checkout ist gegliedert in mehreren Schritten - so kann der User  sowohl Liefer- als auch Rechnungsadresse wählen. Aufgrund der Übersichtlichkeit werden die verschiedenen Payment provider nur im Klassendiagram angezeigt. De Vaidierung der bezahldetails werden über die jeweiligen APIs validiert. Der User kann im letzten Schritt seine Bestelldetails nochmals überprüfen und bei Bestätigung landet er auf eine Bestätigungsseite.
 
 #### Use Case: Review
 
